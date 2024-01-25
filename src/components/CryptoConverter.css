@@ -1,0 +1,28 @@
+.Converter-Inputs{
+  display: flex;
+  gap: 1rem;
+}
+.Textinput-Control{
+  border-radius: 5px;
+  padding: 5px;
+}
+.Converter-Button{
+  background-color: #2b2929;
+  border-radius: 5px;
+  color: rgb(200, 206, 211);
+  padding: 5px;
+  cursor: pointer;
+}  
+.Converter-Button:active{
+  background-color: rgb(70, 65, 65);
+}
+.Converter-Input{
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.Symbol{
+  font-weight: bold;
+  font-size: larger;
+}
+  
